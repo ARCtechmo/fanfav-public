@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+nfl_data_py
+XlsxWriter
+beautifulsoup4
+requests
+rapidfuzz
+ipython
+openpyxl

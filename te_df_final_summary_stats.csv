@@ -1,0 +1,85 @@
+,Missing,Percent
+50+ yds,7709,87.35
+g,7709,87.35
+40+ yds,7709,87.35
+30+ yds,7709,87.35
+20+ yds,7709,87.35
+10+ yds,7709,87.35
+drop,7709,87.35
+catchable,7709,87.35
+tgt,7709,87.35
+brktkl,7709,87.35
+yacon,7709,87.35
+yac,7709,87.35
+air,7709,87.35
+ybc,7709,87.35
+yds,7709,87.35
+rec,7709,87.35
+rz tgt,7709,87.35
+avg_yac,6350,71.95
+avg_expected_yac,6350,71.95
+avg_yac_above_expectation,6350,71.95
+yards,6347,71.92
+avg_cushion,6343,71.88
+rec_touchdowns,6342,71.86
+catch_percentage,6342,71.86
+percent_share_of_intended_air_yards,6342,71.86
+avg_intended_air_yards,6342,71.86
+avg_separation,6342,71.86
+fpts_7wk_delta,5676,64.32
+fpts_7wk_avg,5476,62.05
+tgt pct_rz,5384,61.01
+rec pct_rz,5384,61.01
+tgt_rz,5384,61.01
+rec_rz,5384,61.01
+y/r_rz,5384,61.01
+rec_air_yards_7wk_delta,5348,60.6
+rec_yds_7wk_delta,5348,60.6
+rec_7wk_delta,5348,60.6
+tgt_7wk_delta,5348,60.6
+rec_air_yards_7wk_avg,5348,60.6
+rec_yds_7wk_avg,5348,60.6
+tgt_7wk_avg,5348,60.6
+rec_7wk_avg,5348,60.6
+fpts_5wk_delta,4438,50.29
+result,4432,50.22
+score,4432,50.22
+fpts_5wk_avg,4222,47.84
+tgt_5wk_avg,4092,46.37
+rec_yds_5wk_avg,4092,46.37
+rec_5wk_avg,4092,46.37
+rec_air_yards_5wk_delta,4092,46.37
+tgt_5wk_delta,4092,46.37
+rec_yds_5wk_delta,4092,46.37
+rec_5wk_delta,4092,46.37
+rec_air_yards_5wk_avg,4092,46.37
+fpts_3wk_delta,2995,33.94
+fpts_3wk_avg,2768,31.37
+rec_air_yards_3wk_avg,2637,29.88
+tgt_3wk_delta,2637,29.88
+rec_3wk_delta,2637,29.88
+rec_yds_3wk_delta,2637,29.88
+rec_air_yards_3wk_delta,2637,29.88
+rec_yds_3wk_avg,2637,29.88
+rec_3wk_avg,2637,29.88
+tgt_3wk_avg,2637,29.88
+receiving_broken_tackles,1405,15.92
+receiving_drop,1405,15.92
+receiving_drop_pct,1405,15.92
+receiving_rat,1405,15.92
+fpts_lag_1,1088,12.33
+rec_yds_lag_1,955,10.82
+rec_air_yards_lag_1,955,10.82
+rec_lag_1,955,10.82
+tgt_lag_1,955,10.82
+fd_salary,761,8.62
+dk_salary,761,8.62
+fpts,374,4.24
+rost,374,4.24
+racr,114,1.29
+O_U,83,0.94
+wopr,44,0.5
+air_yards_share,44,0.5
+target_share,44,0.5
+receiving_epa,44,0.5
+spread,21,0.24

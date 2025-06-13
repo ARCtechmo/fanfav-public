@@ -1,0 +1,161 @@
+﻿# 🧪 Fanfav Public Repo – Windows Setup Checklist
+
+This checklist walks you through installing and running the project on a Windows machine without needing coding experience.
+
+---
+
+## ✅ 0. Run the Setup Script (Recommended)
+For the **fastest and easiest setup**, use the provided script.
+
+1. Open **Git Bash**
+2. Navigate to your project directory (e.g., `Documents`)
+   ```bash
+   cd ~/Documents/fanfav-public
+   ```
+3. Make the script executable:
+   ```bash
+   chmod +x setup_script.sh
+   ```
+4. Run the script:
+   ```bash
+   ./setup_script.sh
+   ```
+
+> ⚠️ This will automatically:
+> - Verify Git and Python
+> - Clone the repo (if needed)
+> - Pull the latest updates
+> - Install all dependencies
+> - Remind you of notebook execution order
+
+---
+
+## ✅ 1. Setup Environment
+- [ ] Log into a **Windows machine (latest version)**
+- [ ] Ensure you have **admin rights** to install software
+
+---
+
+## ✅ 2. Install Required Software
+
+### 🧰 Git for Windows
+- [ ] Download Git: https://git-scm.com/downloads
+- [ ] Install with all **default options**
+- [ ] Use the **Windows search (magnifying glass icon)** to search for and launch **Git Bash**
+- [ ] Confirm Git is installed:
+```bash
+git --version
+```
+
+### 🐍 Anaconda (Python 3.10+)
+- [ ] Download Anaconda: https://www.anaconda.com/download/success
+- [ ] Install with default settings
+- [ ] Use the **Windows search** to find and open **Anaconda Navigator**
+  - If it launches, Anaconda is successfully installed
+- [ ] Use Windows search to find **Anaconda Prompt**
+- [ ] Confirm Python is installed:
+```bash
+python --version
+```
+
+> 🧠 Tip: You can use the Windows search to type **Git Bash**, **Anaconda**, or **Python** to verify that these applications are installed and available on your system.
+
+---
+
+## ✅ 3. Open Git Bash and Navigate to Your Folder
+
+1. Press `Win`, type **Git Bash**, and open it
+2. Navigate to your Documents folder using standard GNU/Linux syntax:
+```bash
+cd ~/Documents
+```
+3. Confirm you're in the right directory:
+```bash
+pwd
+```
+
+---
+
+## ✅ 4. Clone the Project Repository
+- [ ] Run the following:
+```bash
+git clone https://github.com/ARCtechmo/fanfav-public.git
+cd fanfav-public
+```
+- [ ] Confirm that files are downloaded by listing the contents:
+```bash
+ls
+```
+
+---
+
+## ✅ 5. Install Python Packages
+- [ ] Open **Anaconda Prompt**
+- [ ] Navigate to the project folder:
+```bash
+cd path\to\fanfav-public
+```
+- [ ] Install required libraries:
+```bash
+pip install -r requirements.txt
+```
+- [ ] Confirm installation by checking a key package:
+```bash
+pip show pandas
+```
+
+---
+
+## ✅ 6. Add Required Data Files
+- [ ] Copy the `.xlsx` files you received into the **same folder as the notebooks**
+- [ ] Confirm the filenames match the ones listed in the guide
+
+---
+
+## ✅ 7. Run the Notebooks
+- [ ] Launch **Jupyter Notebook** from Anaconda Navigator or Anaconda Prompt
+
+🥇 Run These First (Build the Core DataFrames):
+- [ ] `wr_df.ipynb`
+- [ ] `te_df.ipynb`
+- [ ] `rb_df.ipynb`
+- [ ] `qb_df.ipynb`
+- [ ] `team_df.ipynb`
+
+🥈 Then Run These (Feature Engineering & Prep):
+- [ ] `wr_eda_modeling_prep.ipynb`
+- [ ] `te_eda_modeling_prep.ipynb`
+- [ ] `rb_eda_modeling_prep.ipynb`
+- [ ] `qb_eda_modeling_prep.ipynb`
+- [ ] `team_eda_modeling_prep.ipynb`
+
+Use `Shift + Enter` to run each cell in order.
+
+---
+
+## ✅ 8. Verify Output
+- [ ] Do the **charts and tables** render?
+- [ ] Are **PDF/Excel outputs** created successfully?
+- [ ] Does the final dataframe look correct?
+
+---
+
+## ✅ 9. Test for Updates
+- [ ] Open **Git Bash**
+- [ ] Navigate to the project:
+```bash
+cd fanfav-public
+git pull origin main
+```
+- [ ] Confirm you receive the latest version of the project
+
+---
+
+## ✅ 10. Review the Installation Guide
+- [ ] Was the `INSTALLATION_GUIDE.md` clear and complete?
+- [ ] Note anything confusing or that could be improved for other users
+
+---
+
+You're now ready to use the Fanfav modeling tool!
+For help or questions, contact the project author directly.

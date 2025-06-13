@@ -1,0 +1,80 @@
+,Missing,Percent
+receiving_broken_tackles,11125,100.0
+50+ yds,10000,89.89
+rz tgt,10000,89.89
+tgt,10000,89.89
+rec,10000,89.89
+40+ yds,10000,89.89
+20+ yds,10000,89.89
+10+ yds,10000,89.89
+tk loss yds,10000,89.89
+tk loss,10000,89.89
+brktkl,10000,89.89
+yacon,10000,89.89
+ybcon,10000,89.89
+yds,10000,89.89
+att,10000,89.89
+g,10000,89.89
+30+ yds,10000,89.89
+expected_rush_yards,7277,65.41
+rush_yards_over_expected_per_att,7277,65.41
+rush_pct_over_expected,7277,65.41
+rush_yards_over_expected,7277,65.41
+fpts_7wk_delta,6790,61.03
+avg_rush_yards,6740,60.58
+efficiency,6740,60.58
+avg_time_to_los,6740,60.58
+rush_attempts,6740,60.58
+rush_yards,6740,60.58
+percent_attempts_gte_eight_defenders,6740,60.58
+rush_touchdowns,6740,60.58
+fpts_7wk_avg,6545,58.83
+tgt_7wk_avg,6368,57.24
+tgt_7wk_delta,6368,57.24
+rec_7wk_delta,6368,57.24
+rush_yds_7wk_avg,6368,57.24
+rec_7wk_avg,6368,57.24
+rush_yds_7wk_delta,6368,57.24
+score,5522,49.64
+result,5522,49.64
+fpts_5wk_delta,5274,47.41
+fpts_5wk_avg,5015,45.08
+rush_yds_5wk_avg,4833,43.44
+rec_5wk_delta,4833,43.44
+rec_5wk_avg,4833,43.44
+tgt_5wk_delta,4833,43.44
+tgt_5wk_avg,4833,43.44
+rush_yds_5wk_delta,4833,43.44
+tgt_rz,4368,39.26
+y/a_rz,4368,39.26
+rec pct_rz,4368,39.26
+rec_rz,4368,39.26
+tgt pct_rz,4368,39.26
+y/r_rz,4368,39.26
+fpts_3wk_delta,3555,31.96
+fpts_3wk_avg,3287,29.55
+rush_yds_3wk_avg,3099,27.86
+rush_yds_3wk_delta,3099,27.86
+rec_3wk_delta,3099,27.86
+tgt_3wk_delta,3099,27.86
+tgt_3wk_avg,3099,27.86
+rec_3wk_avg,3099,27.86
+target_share,2426,21.81
+receiving_epa,2426,21.81
+rushing_yards_after_contact_avg,2126,19.11
+rushing_yards_after_contact,2126,19.11
+rushing_yards_before_contact_avg,2126,19.11
+rushing_yards_before_contact,2126,19.11
+carries_y,2126,19.11
+fpts_lag_1,1316,11.83
+rec_lag_1,1122,10.09
+rush_yds_lag_1,1122,10.09
+tgt_lag_1,1122,10.09
+dk_salary,909,8.17
+fd_salary,909,8.17
+rushing_epa,639,5.74
+fpts,472,4.24
+y/a,472,4.24
+rost,472,4.24
+O_U,109,0.98
+spread,26,0.23

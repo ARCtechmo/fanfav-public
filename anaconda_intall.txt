@@ -1,0 +1,97 @@
+Check if Anaconda is Installed
+conda --version
+
+Check if Anaconda Navigator is Installed
+conda list anaconda-navigator
+
+If Anaconda Navigator is not installed
+conda install anaconda-navigator
+
+Launch Anaconda Navigator 
+anaconda-navigator
+
+
+Anaconda installation troubleshoot
+Conda init will override the filepaths in .profile.  
+check the path first: echo $PATH
+
+Use vim to modify the .bashrc file.
+vim .bashrc
+
+Add the correct filepath to the end of the .bashrc file
+export PATH="/home/rashawn/anaconda3/bin:${PATH}"
+
+Exit out of vim and save the changes. 
+
+In the terminal type this to ensure it saves the filepath: source .bashrc
+exit the terminal
+
+start a new terminal session
+
+Use vim to modify the .profile file.
+Add the correct filepath to the end of .profile.
+export PATH="/home/rashawn/anaconda3/bin:${PATH}"
+
+exit out of vim and save the changes. 
+
+In the terminal type this to ensure it saves the filepath:
+source .profile
+
+exit the terminal
+
+Create a desktop shortcut icon and launcher.
+Navigate to the Desktop.
+
+Validate that the desktop application contains no errors. 
+desktop-file-validate Desktop/Anaconda-Navigator.desktop
+
+Create a .desktop file.
+gedit Anaconda-Navigator.desktop
+
+
+Note: in the "Exec=" line make sure you have the correct filepath (same as in .profile)
+Note: in the "Icon=" line make sure you have the correct version of python and the correct filepath to the .png 
+
+In the text editor:
+[Desktop Entry]
+Name=Anaconda Navigator
+Comment=Open the Anaconda Navigator
+Exec=/home/rashawn/anaconda3/bin/anaconda-navigator
+Icon=/home/rashawn/anaconda3/lib/python3.11/site-packages/anaconda_navigator/app/icons/Icon1024.png
+Terminal=false
+Type=Application
+Categories=Development;
+
+Make the shortcut executable:
+chmod +x Anaconda-Navigator.desktop
+
+Enable launching of the desktop application
+right-click on the anaconda desktop icon and select "Allow Launching."
+
+Validate the shortcut.
+desktop-file-validate Anaconda-Navigator.desktop
+
+Double click on the short-cut to see if it works. 
+
+If you have trouble try this. Make the .desktop File Trusted (If Needed)
+gio set /home/username/Desktop/Anaconda-Navigator.desktop metadata::trusted true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://chatgpt.com/share/6cd6320f-5911-4618-92d4-0cb117bacec5

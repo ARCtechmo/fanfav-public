@@ -1,0 +1,85 @@
+,Missing,Percent
+tgt pct_rz,16330,93.59
+y/r_rz,16330,93.59
+rec pct_rz,16330,93.59
+tgt_rz,16330,93.59
+rec_rz,16330,93.59
+50+ yds,16327,93.57
+tgt,16327,93.57
+yds,16327,93.57
+ybc,16327,93.57
+air,16327,93.57
+yac,16327,93.57
+yacon,16327,93.57
+brktkl,16327,93.57
+10+ yds,16327,93.57
+catchable,16327,93.57
+drop,16327,93.57
+g,16327,93.57
+20+ yds,16327,93.57
+30+ yds,16327,93.57
+40+ yds,16327,93.57
+rec,16327,93.57
+rz tgt,16327,93.57
+fpts_7wk_delta,10664,61.12
+fpts_7wk_avg,10268,58.85
+rec_air_yards_7wk_avg,9961,57.09
+tgt_7wk_delta,9961,57.09
+rec_air_yards_7wk_delta,9961,57.09
+tgt_7wk_avg,9961,57.09
+rec_7wk_avg,9961,57.09
+rec_yds_7wk_delta,9961,57.09
+rec_yds_7wk_avg,9961,57.09
+rec_7wk_delta,9961,57.09
+avg_expected_yac,9291,53.25
+avg_yac_above_expectation,9291,53.25
+avg_yac,9282,53.2
+yards,9277,53.17
+avg_cushion,9252,53.02
+catch_percentage,9250,53.01
+percent_share_of_intended_air_yards,9250,53.01
+avg_intended_air_yards,9250,53.01
+rec_touchdowns,9250,53.01
+avg_separation,9250,53.01
+score,8787,50.36
+result,8787,50.36
+fpts_5wk_delta,8256,47.32
+fpts_5wk_avg,7843,44.95
+tgt_5wk_avg,7525,43.13
+rec_air_yards_5wk_avg,7525,43.13
+tgt_5wk_delta,7525,43.13
+rec_yds_5wk_avg,7525,43.13
+rec_air_yards_5wk_delta,7525,43.13
+rec_yds_5wk_delta,7525,43.13
+rec_5wk_delta,7525,43.13
+rec_5wk_avg,7525,43.13
+fpts_3wk_delta,5568,31.91
+fpts_3wk_avg,5141,29.46
+tgt_3wk_delta,4822,27.63
+rec_air_yards_3wk_avg,4822,27.63
+rec_3wk_delta,4822,27.63
+tgt_3wk_avg,4822,27.63
+rec_yds_3wk_delta,4822,27.63
+rec_yds_3wk_avg,4822,27.63
+rec_3wk_avg,4822,27.63
+rec_air_yards_3wk_delta,4822,27.63
+receiving_drop,2774,15.9
+receiving_rat,2774,15.9
+receiving_drop_pct,2774,15.9
+receiving_broken_tackles,2774,15.9
+fd_salary,2193,12.57
+dk_salary,2193,12.57
+fpts_lag_1,2075,11.89
+rec_yds_lag_1,1748,10.02
+rec_air_yards_lag_1,1748,10.02
+rec_lag_1,1748,10.02
+tgt_lag_1,1748,10.02
+fpts,780,4.47
+rost,780,4.47
+racr,328,1.88
+wopr,286,1.64
+air_yards_share,286,1.64
+target_share,286,1.64
+receiving_epa,286,1.64
+O_U,183,1.05
+spread,39,0.22
